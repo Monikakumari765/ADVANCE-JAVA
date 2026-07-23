@@ -1,22 +1,20 @@
-interface Robot{
+interface Robot {
     void work();
 }
 
-public class Anonymous{
+public class Anonymous {
 
-    public static void main(String[] args){
+    public static void main(String[] args) {
 
-        Robot r = new Robot(){
+        Robot r = new Robot() {
 
             @Override
-            public void work(){
+            public void work() {
                 System.out.println("Robot is Dancing");
             }
 
         };
 
         r.work();
-
     }
-
 }
