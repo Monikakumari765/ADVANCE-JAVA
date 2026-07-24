@@ -55,6 +55,8 @@ public class LinkedListTest {
         // }
 
 
+        
+
         n.forEach(ele -> System.out.println(ele));
 
     }
