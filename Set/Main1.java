@@ -1,7 +1,7 @@
 
 import java.util.*;
 
-public class Main {
+public class Main1{
     public static void main(String[] args) {
         Set<Integer> set = new HashSet<>();
 
