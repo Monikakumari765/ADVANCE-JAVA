@@ -28,3 +28,4 @@ public class HashSetMethods {
         System.out.println(set.isEmpty()); // true
     }
 }
+
