@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class Main1 {
+public class Mains {
     public static void main(String[] args) {
 
         Set<Integer> set = new HashSet<>();
