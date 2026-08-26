@@ -13,6 +13,8 @@ public class thread {
         
     }
 }
+
+
 // Thread
 //   ↓
 // Create Thread
