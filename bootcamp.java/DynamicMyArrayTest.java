@@ -16,7 +16,7 @@ class MyArray {
             newArr[i] = arr[i];
         }
         arr = newArr;
-        System.out.println("Hamne Naya Array Banaya");
+        System.out.println("we make new array of size");
     }
 
     void insert(int val) {
